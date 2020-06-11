@@ -14,7 +14,6 @@ def build_comment_dictionary(df, comment_scores):
             new_count = comment_scores[post_id][1] + 1
             comment_scores[post_id] = [new_score, new_count]
             count += 1
-            # print(count)
             
 def post_sentiment(post):
     from nltk import tokenize
