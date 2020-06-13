@@ -9,3 +9,15 @@ psycogreen==1.0.1
 pytest==4.0.2
 pytest-cov==2.6.1
 pytest-mock==1.10.1
+praw
+pandas
+datetime
+nltk
+vaderSentiment
+re
+os
+urllib
+zipfile
+pickle
+sklearn
+numpy
